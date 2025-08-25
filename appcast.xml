@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="https://sparkle-project.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Presentify Updates</title>
+    <link>https://rampatra.github.io/presentify-updates/</link>
+    <description>Latest updates for Presentify</description>
+    <language>en</language>
+    <item>
+      <title>Version 7.1.0</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Mon, 25 Aug 2025 16:58:45 +0000</pubDate>
+      <enclosure
+        url="https://rampatra.github.io/presentify-updates/Presentify-7.1.0.dmg"
+        sparkle:version="36"
+        sparkle:shortVersionString="7.1.0"
+        length="2681594"
+        type="application/octet-stream"
+        sparkle:edSignature="sparkle:edSignature="T8qs6kQlUHXnvGG3PjGhiAfI95e/OoFVJVpRez6Fiz7ypfZTFQSm8akmC+Hht21BG73+RZUqfXRQt4UeCpdKAw==" length="2681594""/>
+    </item>
+  </channel>
+</rss>
