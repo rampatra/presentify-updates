@@ -9,15 +9,16 @@
     <language>en</language>
     <item>
       <title>Version 7.1.0</title>
-      <description><![CDATA[]]></description>
-      <pubDate>Mon, 25 Aug 2025 17:31:25 +0000</pubDate>
+      <description><![CDATA[• New licensing feature
+• Payment is now handled by Polar.sh]]></description>
+      <pubDate>Mon, 25 Aug 2025 20:10:59 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-7.1.0.dmg"
-        sparkle:version="36"
+        sparkle:version="37"
         sparkle:shortVersionString="7.1.0"
-        length="2681546"
+        length="2692055"
         type="application/octet-stream"
-        sparkle:edSignature="f2apDys3mtqvgMk40XcXsyvvlazUg0v9QSphkdPtD+K09kajNotW+ZxRRoTJ/mGsw4z2abJq/YqSX01kfvfQDA=="/>
+        sparkle:edSignature="/kljrqXd5J/HtpGTxQk4NkKOnOzZ3jk44TU/VpyTqRantD3fvlQTHT2Gs2m6vWvYq41fktgitCx3Z2AyOPNVDA=="/>
     </item>
   </channel>
 </rss>
