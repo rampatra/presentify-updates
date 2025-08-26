@@ -10,14 +10,14 @@
     <item>
       <title>Version 7.1.0</title>
       <description><![CDATA[]]></description>
-      <pubDate>Mon, 25 Aug 2025 22:13:57 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:13:05 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-7.1.0.dmg"
         sparkle:version="40"
         sparkle:shortVersionString="7.1.0"
-        length="2692339"
+        length="2692737"
         type="application/octet-stream"
-        sparkle:edSignature="Ug6nHQmJVocJu58fuRB+OT51kgam1kenaWX59bZYfdALRFlDPNa7EewUB59g4J5wPHgXkfgQ+gQxFDWo3y54Cw=="/>
+        sparkle:edSignature="Q9DYVq9xTf4XDXYYVfcuZQYJN6Ya912yUtqH4CNKsK/QXgwV+30KXpfq+aGfUa/UvXTc7Eybx87ndLhEqY3hAg=="/>
     </item>
   </channel>
 </rss>
