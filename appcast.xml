@@ -8,16 +8,19 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 7.1.0</title>
-      <description><![CDATA[]]></description>
-      <pubDate>Tue, 26 Aug 2025 08:23:33 +0000</pubDate>
+      <title>Version 7.2.0</title>
+      <description><![CDATA[• Change font in the Text tool
+• Set default font size in the Text tool
+• Show/hide the placeholder in the Text tool
+• Show/hide the annotation tool indicator]]></description>
+      <pubDate>Sat, 20 Sep 2025 10:20:26 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-7.1.0.dmg"
-        sparkle:version="41"
-        sparkle:shortVersionString="7.1.0"
-        length="2692669"
+        url="https://rampatra.github.io/presentify-updates/Presentify-7.2.0.dmg"
+        sparkle:version="43"
+        sparkle:shortVersionString="7.2.0"
+        length="2718822"
         type="application/octet-stream"
-        sparkle:edSignature="wU0DfozCaGnR7xngHngVkwfQ9iefoXtZe2j3a1rUXlL93k/BD3KgpqGW1nUrZ2Xig0vsBCD81YDeAX2UOPgqBQ=="/>
+        sparkle:edSignature="RoiA2zAVYkEvr70qNiVecA9z2STg0RyAympgCFWOJDtVPrNEYbDm8nkk93xDIZF+DLClCtlZgpi2mqVH1xINAA=="/>
     </item>
   </channel>
 </rss>
