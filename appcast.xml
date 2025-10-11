@@ -8,19 +8,16 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 7.2.0</title>
-      <description><![CDATA[• Change font in the Text tool
-• Set default font size in the Text tool
-• Show/hide the placeholder in the Text tool
-• Show/hide the annotation tool indicator]]></description>
-      <pubDate>Sat, 20 Sep 2025 10:20:26 +0000</pubDate>
+      <title>Version 7.2.1</title>
+      <description><![CDATA[• Minor bug fix where the tool indicator was shown all the time when it was enabled in the setting]]></description>
+      <pubDate>Sat, 11 Oct 2025 18:05:14 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-7.2.0.dmg"
-        sparkle:version="43"
-        sparkle:shortVersionString="7.2.0"
-        length="2718822"
+        url="https://rampatra.github.io/presentify-updates/Presentify-7.2.1.dmg"
+        sparkle:version="44"
+        sparkle:shortVersionString="7.2.1"
+        length="2719741"
         type="application/octet-stream"
-        sparkle:edSignature="RoiA2zAVYkEvr70qNiVecA9z2STg0RyAympgCFWOJDtVPrNEYbDm8nkk93xDIZF+DLClCtlZgpi2mqVH1xINAA=="/>
+        sparkle:edSignature="PYl3wmIWD6aIKLs7QH0L5vIMys9NvF26xOoj1dYUT3N5TcKUmV9RNUAf+uaUCcsN+jE3bV9JrmxP1v+KvvKgBw=="/>
     </item>
   </channel>
 </rss>
