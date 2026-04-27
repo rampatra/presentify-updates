@@ -8,16 +8,26 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 7.2.1</title>
-      <description><![CDATA[• Minor bug fix where the tool indicator was shown all the time when it was enabled in the setting]]></description>
-      <pubDate>Sat, 11 Oct 2025 18:05:14 +0000</pubDate>
+      <title>Version 8.0.0</title>
+      <description><![CDATA[• New Spotlight squircle shape.
+• Dim the background when using Cursor Zoom.
+• New keyboard shortcuts for changing size, zoom level, etc., for Highlight, Spotlight, and Zoom features.
+• Fully customizable keyboard shortcuts for all annotation operations.
+• You can now set a default folder to save screenshots in.
+• Improved user experience for Interactive Mode.
+• New Highlight pulsing animation shown only on clicks.
+• New keyboard shortcut to set the line weight to a specific value.
+• New onboarding flow.
+• You can now zoom the entire screen instead of where your cursor is.
+• Improved annotation selection and move experience.]]></description>
+      <pubDate>Mon, 27 Apr 2026 22:27:27 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-7.2.1.dmg"
-        sparkle:version="44"
-        sparkle:shortVersionString="7.2.1"
-        length="2719741"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.0.dmg"
+        sparkle:version="48"
+        sparkle:shortVersionString="8.0.0"
+        length="4711362"
         type="application/octet-stream"
-        sparkle:edSignature="PYl3wmIWD6aIKLs7QH0L5vIMys9NvF26xOoj1dYUT3N5TcKUmV9RNUAf+uaUCcsN+jE3bV9JrmxP1v+KvvKgBw=="/>
+        sparkle:edSignature="oIffql1IanR2QBaWaJXHf3JdZf5zEgYPxMpaM2qpmh4DsCQ4dJmGocBsKmQ9ZCQG4EalMxagn9WLjkfcTHC0Cw=="/>
     </item>
   </channel>
 </rss>
