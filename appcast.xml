@@ -19,15 +19,16 @@
 • New keyboard shortcut to set the line weight to a specific value.
 • New onboarding flow.
 • You can now zoom the entire screen instead of where your cursor is.
-• Improved annotation selection and move experience.]]></description>
-      <pubDate>Mon, 27 Apr 2026 22:27:27 +0000</pubDate>
+• Improved annotation selection and move experience.
+• Fix lag in Zoom]]></description>
+      <pubDate>Tue, 28 Apr 2026 15:24:39 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-8.0.0.dmg"
-        sparkle:version="48"
+        sparkle:version="49"
         sparkle:shortVersionString="8.0.0"
-        length="4711362"
+        length="4695708"
         type="application/octet-stream"
-        sparkle:edSignature="oIffql1IanR2QBaWaJXHf3JdZf5zEgYPxMpaM2qpmh4DsCQ4dJmGocBsKmQ9ZCQG4EalMxagn9WLjkfcTHC0Cw=="/>
+        sparkle:edSignature="D2fvADxJWH4vHD5PdHyiZmaTeGAtfDvsbVZ0dtxfsojMOZFbp7caS2rSgEt+fPveCKH6NZ1sIe10TjSTMr0dAg=="/>
     </item>
   </channel>
 </rss>
