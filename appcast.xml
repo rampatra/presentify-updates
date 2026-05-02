@@ -9,18 +9,20 @@
     <language>en</language>
     <item>
       <title>Version 8.0.2</title>
-      <description><![CDATA[• Return focus to the previous app after annotation is done.
-• Draw squares and circles by holding the Shift key.
-• New key shortcut to change Zoom modes.
-• UI fixes, code and memory improvements.]]></description>
-      <pubDate>Sat, 02 May 2026 12:50:42 +0000</pubDate>
+      <description><![CDATA[• Fix Zoom sharing issue where the zoomed-in window was not appearing on screen recording apps.<br />
+• Return focus to the previous app after annotation is done.<br />
+• Draw squares and circles by holding the Shift key.<br />
+• New key shortcut to change Zoom modes.<br />
+• UI fixes, code and memory improvements.<br />
+]]></description>
+      <pubDate>Sat, 02 May 2026 15:09:12 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-8.0.2.dmg"
-        sparkle:version="52"
+        sparkle:version="54"
         sparkle:shortVersionString="8.0.2"
-        length="4708666"
+        length="4710447"
         type="application/octet-stream"
-        sparkle:edSignature="PvJAiiW8cBGNnmFfidWDw9HuGZQEiBm8SX6Acn9SOtyAW0mJ0dpLyQFcCLECeF7pUtfGuUlXsWgltlkK77RNDg=="/>
+        sparkle:edSignature="4+H9pNHZ7GDXG1MPXgyqHoh6G32XX59vEB35kl2PiZ0lFAgwLArjjxTFxdFAxKBxjKQAdv7FoQ6QqI7KhOODCw=="/>
     </item>
   </channel>
 </rss>
