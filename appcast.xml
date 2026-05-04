@@ -9,20 +9,16 @@
     <language>en</language>
     <item>
       <title>Version 8.0.2</title>
-      <description><![CDATA[• Fix Zoom sharing issue where the zoomed-in window was not appearing on screen recording apps.<br />
-• Return focus to the previous app after annotation is done.<br />
-• Draw squares and circles by holding the Shift key.<br />
-• New key shortcut to change Zoom modes.<br />
-• UI fixes, code and memory improvements.<br />
+      <description><![CDATA[• Fix a bug in Interactive Mode where the macOS items in the menu bar was losing focus.<br />
 ]]></description>
-      <pubDate>Sat, 02 May 2026 15:09:12 +0000</pubDate>
+      <pubDate>Mon, 04 May 2026 13:02:13 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-8.0.2.dmg"
-        sparkle:version="54"
+        sparkle:version="56"
         sparkle:shortVersionString="8.0.2"
-        length="4710447"
+        length="4711091"
         type="application/octet-stream"
-        sparkle:edSignature="4+H9pNHZ7GDXG1MPXgyqHoh6G32XX59vEB35kl2PiZ0lFAgwLArjjxTFxdFAxKBxjKQAdv7FoQ6QqI7KhOODCw=="/>
+        sparkle:edSignature="oR7Kdk+WLj03pgRfO9dys39+wU2cYG3QAQC9axS0UwwuPJGqgaDw4erjnurVKiKZtg5pwwdS9rjRobWPVpWEBg=="/>
     </item>
   </channel>
 </rss>
