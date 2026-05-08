@@ -8,17 +8,18 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 8.0.2</title>
-      <description><![CDATA[• Fix a bug in Interactive Mode where the macOS items in the menu bar was losing focus.<br />
+      <title>Version 8.0.4</title>
+      <description><![CDATA[• Easier way to contact support.<br />
+• Minor bug fixes and improvements.<br />
 ]]></description>
-      <pubDate>Mon, 04 May 2026 13:02:13 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 19:12:28 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.2.dmg"
-        sparkle:version="56"
-        sparkle:shortVersionString="8.0.2"
-        length="4711091"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.4.dmg"
+        sparkle:version="60"
+        sparkle:shortVersionString="8.0.4"
+        length="4711941"
         type="application/octet-stream"
-        sparkle:edSignature="oR7Kdk+WLj03pgRfO9dys39+wU2cYG3QAQC9axS0UwwuPJGqgaDw4erjnurVKiKZtg5pwwdS9rjRobWPVpWEBg=="/>
+        sparkle:edSignature="ZDzqxkm2A59XKNv6GleXTEhwP1DlaqFYRz/seoSQSYwkHDMiyIXshKQKZ8sIlkTEBkvyICLewKbvBj1GI2hlBQ=="/>
     </item>
   </channel>
 </rss>
