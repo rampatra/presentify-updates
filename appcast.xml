@@ -8,18 +8,17 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 8.0.4</title>
-      <description><![CDATA[• Easier way to contact support.<br />
-• Minor bug fixes and improvements.<br />
+      <title>Version 8.0.6</title>
+      <description><![CDATA[• Fix opening of Settings window in older macOS versions (13)<br />
 ]]></description>
-      <pubDate>Fri, 08 May 2026 19:12:28 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 11:07:25 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.4.dmg"
-        sparkle:version="60"
-        sparkle:shortVersionString="8.0.4"
-        length="4711941"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.6.dmg"
+        sparkle:version="62"
+        sparkle:shortVersionString="8.0.6"
+        length="4712837"
         type="application/octet-stream"
-        sparkle:edSignature="ZDzqxkm2A59XKNv6GleXTEhwP1DlaqFYRz/seoSQSYwkHDMiyIXshKQKZ8sIlkTEBkvyICLewKbvBj1GI2hlBQ=="/>
+        sparkle:edSignature="HSvcrRlCXGWXGG3N9rPXWQD7LlcVRq5uAtQgWAaUQpogG/sb9heCXY4UeDrO3QbHe+hyLTcN8iyj54gfclxmDg=="/>
     </item>
   </channel>
 </rss>
