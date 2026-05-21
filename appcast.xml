@@ -9,16 +9,16 @@
     <language>en</language>
     <item>
       <title>Version 8.0.6</title>
-      <description><![CDATA[• Fix opening of Settings window in older macOS versions (13)<br />
+      <description><![CDATA[• You can now see the email with which you purchased your license.<br />
 ]]></description>
-      <pubDate>Thu, 14 May 2026 11:07:25 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 12:20:13 +0000</pubDate>
       <enclosure
         url="https://rampatra.github.io/presentify-updates/Presentify-8.0.6.dmg"
-        sparkle:version="62"
+        sparkle:version="63"
         sparkle:shortVersionString="8.0.6"
-        length="4712837"
+        length="4744035"
         type="application/octet-stream"
-        sparkle:edSignature="HSvcrRlCXGWXGG3N9rPXWQD7LlcVRq5uAtQgWAaUQpogG/sb9heCXY4UeDrO3QbHe+hyLTcN8iyj54gfclxmDg=="/>
+        sparkle:edSignature="xIgqmK5xr6pLhOuA+xBcabhv50rRRrOeiepWIDUHHF+I7EujHFjHpWVd3AIY5/gp5LQGwYI0ebCknUrg+b5FAQ=="/>
     </item>
   </channel>
 </rss>
