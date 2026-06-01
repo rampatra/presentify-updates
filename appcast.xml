@@ -8,17 +8,17 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 8.0.6</title>
-      <description><![CDATA[• You can now see the email with which you purchased your license.<br />
+      <title>Version 8.0.7</title>
+      <description><![CDATA[• Allow app updates even when no license is activated.<br />
 ]]></description>
-      <pubDate>Thu, 21 May 2026 12:20:13 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 13:45:19 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.6.dmg"
-        sparkle:version="63"
-        sparkle:shortVersionString="8.0.6"
-        length="4744035"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.0.7.dmg"
+        sparkle:version="64"
+        sparkle:shortVersionString="8.0.7"
+        length="4747942"
         type="application/octet-stream"
-        sparkle:edSignature="xIgqmK5xr6pLhOuA+xBcabhv50rRRrOeiepWIDUHHF+I7EujHFjHpWVd3AIY5/gp5LQGwYI0ebCknUrg+b5FAQ=="/>
+        sparkle:edSignature="X7qWYrYjVP+Ddj+nmnNCW84usFKqR/YkIJ5ryW3GiWufS3dRpfFOFgRukxI4fjX/AptjUGncstjrLU2F6SYrBw=="/>
     </item>
   </channel>
 </rss>
