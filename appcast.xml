@@ -8,19 +8,17 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 8.1.0</title>
-      <description><![CDATA[• Presentify now shows a Dock icon in addition to the menu bar icon.<br />
-• You can right-click the Dock icon to access all the main features of the app.<br />
-• Choose to keep both the menu bar icon and the Dock icon, or either one.<br />
+      <title>Version 8.1.2</title>
+      <description><![CDATA[• Fix a bug where for some users Presentify was not working on other apps in full-screen mode.<br />
 ]]></description>
-      <pubDate>Tue, 23 Jun 2026 15:14:05 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 13:04:47 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-8.1.0.dmg"
-        sparkle:version="67"
-        sparkle:shortVersionString="8.1.0"
-        length="5053477"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.1.2.dmg"
+        sparkle:version="68"
+        sparkle:shortVersionString="8.1.2"
+        length="5052694"
         type="application/octet-stream"
-        sparkle:edSignature="o14xWES8y6TLqCBK68hD6tysPr2X8xmfvMuDNaZGtQ5RzsnuMwiIG9J0TlhPOmIi1js6BZoR7IYNXZVClZFoCQ=="/>
+        sparkle:edSignature="QzNeJXer1PH4KM6F9OroYzeSaPoMi4iknvwFXqOYus3wKmHYiCdiWscNcOYnF7A6gtD3c0Yg2gJvZPte3MG4BQ=="/>
     </item>
   </channel>
 </rss>
