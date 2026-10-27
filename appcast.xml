@@ -8,17 +8,25 @@
     <description>Latest updates for Presentify</description>
     <language>en</language>
     <item>
-      <title>Version 8.1.4</title>
-      <description><![CDATA[• Minor improvements around license management.<br />
+      <title>Version 8.2.0</title>
+      <description><![CDATA[• Presentify is now available in Simplified Chinese, Japanese, Korean, and Brazilian Portuguese.<br />
+• Smoother freehand drawing: fast curves no longer show sharp corners.<br />
+• New "Clear All" option in each section of the Shortcuts settings.<br />
+• Presentify now warns you when an annotation shortcut conflicts with another shortcut, including ⌘Z and ⇧⌘Z.<br />
+• Fixed redo after moving annotations.<br />
+• Clicking a selected annotation no longer adds an empty undo step.<br />
+• Your chosen screenshot folder is now remembered more reliably.<br />
+• Clearer menu labels, such as "Turn Off Zoom".<br />
+• Minor improvements around license management.<br />
 ]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:57:00 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 21:30:44 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/presentify-updates/Presentify-8.1.4.dmg"
-        sparkle:version="70"
-        sparkle:shortVersionString="8.1.4"
-        length="5058082"
+        url="https://rampatra.github.io/presentify-updates/Presentify-8.2.0.dmg"
+        sparkle:version="71"
+        sparkle:shortVersionString="8.2.0"
+        length="5132329"
         type="application/octet-stream"
-        sparkle:edSignature="rXMka6WzSQ1skV4D781sI3VUO9qHuxwsdEEHzNlWgP+LXRrDpqpfVleMJhaCDXHonBWIyGy3BAHycorvqbbHBQ=="/>
+        sparkle:edSignature="YVYVGnl3NyxTGHMBbiQPX1XHQStMiCxLDPNN1HEeB2PWOU4JfYY1rW9XWmkDdbqdZUtlMozMn723KJDsPSpKDQ=="/>
     </item>
   </channel>
 </rss>
